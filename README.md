@@ -1,6 +1,6 @@
-# 武士道 — Deepak Meena · 3D Samurai Portfolio
+# 武士道 — Vishesh Panwar · 3D Samurai Portfolio
 
-An interactive 3D portfolio for **Deepak Meena**, Software Development Engineer — Full-Stack (.NET / Angular / Azure).
+An interactive 3D portfolio for **Vishesh Panwar**, Software Development Engineer — Full-Stack (.NET / Angular / Azure).
 
 A samurai stands inside an ink-wash mountain painting. Each section of the portfolio is a drone shot of a different part of the samurai. As you scroll, the camera flies from shot to shot, pulling out and swooping back in and banking into turns, while painted sakura petals drift down.
 
@@ -61,10 +61,10 @@ It's a static site: on Netlify, Vercel or GitHub Pages, leave the build command 
 | `script.js` | Loading screen, typing effect, nav highlighting, scroll progress, contact form |
 | `three-scene.js` | 3D scene: model loading, body-part anchors, drone shots, panorama, petals |
 | `assets/` | Samurai model, paper texture, mountain painting, sakura branch, petal sprites |
-| `Deepak_Meena_Resume.pdf` | Downloadable resume |
+| `Vishesh_Panwar_Resume.pdf` | Downloadable resume |
 
 ## Contact
 
-- Email: deepaksingh1712000@gmail.com
-- LinkedIn: [deepak-meena-734b9625b](https://www.linkedin.com/in/deepak-meena-734b9625b)
-- GitHub: [DeepakMeena222187](https://github.com/DeepakMeena222187)
+- Email: visheshpanwar3@gmail.com
+- LinkedIn: [visheshpanwar3](https://www.linkedin.com/in/visheshpanwar3/)
+- GitHub: [VisheshPanwar2003](https://github.com/VisheshPanwar2003)
